@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.0000267mm"
+   height="3.0000226mm"
+   viewBox="0 0 3.0000267 3.0000228"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"><inkscape:page
+       x="-3.4398244e-08"
+       y="-1.0185453e-06"
+       width="3.0000267"
+       height="3.0000229"
+       id="page3"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath215"><path
+         d="M 0,364.252 H 171.779 V 0 H 0 Z"
+         transform="translate(-75.857402,-276.70021)"
+         id="path215" /></clipPath></defs><g
+     id="layer-MC0"
+     inkscape:groupmode="layer"
+     inkscape:label="labels"
+     transform="matrix(0.26458332,0,0,0.26458334,-24.517116,-28.888548)"><path
+       id="path214"
+       d="m 0,0 c -0.306,-0.326 -0.728,-0.506 -1.189,-0.506 -0.929,0 -1.89,0.756 -1.89,2.021 0,0.565 -0.117,0.885 -0.215,1.054 -0.097,0.167 -0.217,0.259 -0.337,0.259 -0.243,0 -0.603,-0.418 -0.603,-1.313 0,-0.138 -0.113,-0.25 -0.25,-0.25 -0.138,0 -0.25,0.112 -0.25,0.25 0,1.19 0.555,1.813 1.103,1.813 0.302,0 0.582,-0.185 0.769,-0.508 0.185,-0.318 0.283,-0.77 0.283,-1.305 0,-1.459 1.564,-1.869 2.214,-1.173 0.251,0.267 0.383,0.673 0.383,1.173 0,0.137 0.112,0.25 0.25,0.25 0.137,0 0.25,-0.113 0.25,-0.25 C 0.518,0.886 0.339,0.362 0,0 m -2.108,5.663 c -2.348,0 -4.252,-1.903 -4.252,-4.252 0,-2.348 1.904,-4.252 4.252,-4.252 2.349,0 4.252,1.904 4.252,4.252 0,2.349 -1.903,4.252 -4.252,4.252"
+       style="fill:#03a3ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,101.1432,116.73573)"
+       clip-path="url(#clipPath215)" /></g></svg>
